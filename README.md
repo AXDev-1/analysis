@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Data_Analysis
-=======
-# analysis
->>>>>>> origin/main
+# Guide Bot Data Analysis
+# Please Go out
+
