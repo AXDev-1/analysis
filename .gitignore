@@ -1,0 +1,11 @@
+*.ipynb_checkpoints
+<<<<<<< HEAD
+*/.ipynb_checkpoints
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.-checkpoint.ipynb
+=======
+
+>>>>>>> origin/main
